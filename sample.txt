@@ -1,0 +1,8 @@
+Example (Java + Maven):
+mkdir -p src/main/java
+nano src/main/java/App.java
+public class App {
+public static void main(String[] args) {
+System.out.println("GitFlow Jenkins CI Demo");
+}
+}
